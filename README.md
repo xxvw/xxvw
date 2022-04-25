@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, SpringBoot and Python**
 
-- 📫 How to reach me **Post issue or send PR**
+- 📫 How to reach me **post Issue or send PR**
 
 - ⚡ Fun **Valorant / ZETA DIVISION**
 
