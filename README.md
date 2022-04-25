@@ -1,8 +1,6 @@
 <h1 align="center">Hello there, I'm yuu</h1>
 <h3 align="center">A college student from Japan</h3>
 
-- 🔭 I’m currently working on [Gamer's Buddy Ltd.](https://www.gamers-buddy.com)
-
 - 🌱 I’m currently learning **Framework, Frontend etc.**
 
 - 💬 Ask me about **Java, SpringBoot and Python**
