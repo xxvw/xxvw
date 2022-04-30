@@ -11,10 +11,6 @@
 
 - ⚡ Fun **Valorant / ZETA DIVISION**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=xrozl&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![](https://activity-graph.herokuapp.com/graph?username=xrozl&theme=github)](https://activity-graph.herokuapp.com/graph?username=xrozl&theme=github)
