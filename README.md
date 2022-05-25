@@ -3,12 +3,12 @@
 18 Years old Japanese Collage Student.  
 Toyo Univ. INIAD (6th). twitter > @xrrly.  
 
-Gear (Laptop)
+Laptop
 - Apple M1 MacBook Pro 14'inch
 - M1 Pro (arm64)
 - 32 GiB Ram | 1TB SSD
 
-Gear (Desktop)
+Desktop
 - AMD Ryzen™ 9 5950X (16c / 32t)
 - GeForce RTX 3080 Ti
 - 64 GiB Ram | 1TB M.2 SSD + 6TB HDD 3'inch
