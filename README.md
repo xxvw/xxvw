@@ -26,7 +26,7 @@ Gear
 
 AtCoder peak Rating 1604  
 
-Game
+Games:
 - Apex Legends peak Master 10000rp
 - VALORANT peak IMMORTAL 2 158rr
 
