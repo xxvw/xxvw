@@ -24,7 +24,7 @@ Gear
 
 # 👏Activity
 
-AtCoder peak Rating 1604
+AtCoder peak Rating 1604  
 VALORANT peak IMMORTAL 2 158rr
 
 # 💻Tech Stack
