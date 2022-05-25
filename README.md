@@ -1,7 +1,7 @@
 # 💫About Me :
 
 18 Years old Japanese Collage Student.  
-Toyo Univ. INIAD (6th).  
+Toyo Univ. INIAD (6th). twi -> @xrrly.  
 
 Gear (Laptop)
 - Apple M1 MacBook Pro 14'inch
