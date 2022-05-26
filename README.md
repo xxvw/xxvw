@@ -24,7 +24,7 @@ Gear
 
 # 👏Activity
 
-Works AVALON Gaming. / Gamer's Buddy Ltd.  
+Works for [AVALON Gaming](https://twitter.com/jpn_avalon). / [Gamer's Buddy Ltd](https://www.gamers-buddy.com).  
 
 [![AtCoder - peak Rating 1604](https://img.shields.io/badge/AtCoder-peak_Rating_1604-blue)](https://)
 [![VALORANT - peak IMMORTAL2 152rr](https://img.shields.io/badge/VALORANT-peak_IMMORTAL2_152rr-red)](https://)
