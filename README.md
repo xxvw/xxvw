@@ -24,6 +24,8 @@ Gear
 
 # 👏Activity
 
+Works AVALON Gaming. / Gamer's Buddy Ltd.  
+
 [![AtCoder - peak Rating 1604](https://img.shields.io/badge/AtCoder-peak_Rating_1604-blue)](https://)
 [![VALORANT - peak IMMORTAL2 152rr](https://img.shields.io/badge/VALORANT-peak_IMMORTAL2_152rr-red)](https://)
 [![Apex Legends - peak Master 14000rp](https://img.shields.io/badge/Apex_Legends-peak_Master_14000rp-red)](https://)
