@@ -24,6 +24,7 @@ Gear
 
 # 👏Activity
 
+ex-Freelance Mix Engineer (Only for Vocals)  
 Works for [AVALON Gaming](https://twitter.com/jpn_avalon). / [Gamer's Buddy Ltd](https://www.gamers-buddy.com).  
 
 
