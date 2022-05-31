@@ -1,6 +1,6 @@
 # 💫About Me :
 
-18 Years old Japanese Collage Student.  
+19 Years old Japanese Collage Student.  
 Toyo Univ. INIAD (6th). twitter > @xrrly.  
 
 Laptop
