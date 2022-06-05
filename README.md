@@ -5,13 +5,13 @@ Toyo Univ. INIAD (6th). twitter > @xrrly.
 
 Laptop
 - Apple M1 MacBook Pro 14'inch
-- M1 Pro (arm64)
-- 32 GiB Ram | 1TB SSD
+- M1 Pro
+- 32 GB Ram | 1TB SSD
 
 Desktop
 - AMD Ryzen™ 9 5950X (16c / 32t)
 - GeForce RTX 3080 Ti
-- 64 GiB Ram | 1TB M.2 SSD + 6TB HDD 3'inch
+- 64 GB Ram | 1TB M.2 SSD + 6TB HDD 3'inch
 - Windows 10 Pro 64bit
 
 Gear
