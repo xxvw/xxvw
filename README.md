@@ -1,7 +1,7 @@
 # 💫About Me :
 
 19 Years old Japanese Collage Student.  
-Toyo University. INIAD (6th). twitter > @xrrly.  
+Toyo University. INIAD (6th).
 
 Laptop
 - Apple M1 MacBook Pro 14'inch
