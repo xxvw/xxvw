@@ -1,6 +1,6 @@
 # 💫About Me :
 
-19 Years old Japanese Collage Student.  
+19 Years old (03) Japanese Collage Student.  
 Toyo University. INIAD (6th).
 
 Laptop
