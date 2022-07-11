@@ -3,25 +3,6 @@
 19 Years old (03) Japanese Collage Student.  
 Toyo University. INIAD (6th).
 
-Laptop
-- Apple M1 MacBook Pro 14'inch
-- M1 Pro
-- 32 GB Ram | 1TB SSD
-
-Desktop
-- AMD Ryzen™ 9 5950X (16c / 32t)
-- GeForce RTX 3080 Ti
-- 64 GB Ram | 1TB M.2 SSD + 6TB HDD 3'inch
-- Windows 10 Pro 64bit
-
-Gear
-- Mouse: Logicool GPro X Superlight
-- Keyboard: Logicool G913 TKL Black
-- MousePad: Logicool POWERPLAY
-- Earphone: Apple Earpods
-- I/F: RME Babyface Pro FS
-- Mic: BlueYeti Bluebird SL XLR
-
 # 👏Activity
 
 Works for [AVALON Gaming](https://twitter.com/jpn_avalon). / [Gamer's Buddy Ltd](https://www.gamers-buddy.com).  
