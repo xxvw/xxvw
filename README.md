@@ -20,6 +20,8 @@
 - MENTA Selenium講師  
 - AtCoderコンテスト補助ツール制作  
 - VST3 Compressorプラグイン制作（UB Comp）  
+- Discord Bot Saku制作（月間ユーザー 300人）  
+- Discord Bot 99bWorks制作（月間ユーザー 3000人強）  
 
 <!-- 
 # 📊GitHub Stats :
