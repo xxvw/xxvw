@@ -6,13 +6,14 @@
 # 👏 Activity
 
 所属 [AVALON Gaming](https://twitter.com/jpn_avalon). / [Gamer's Buddy Ltd](https://www.gamers-buddy.com).  
-- 株式会社BitStar [Pont](https://pont.co/) 技術提供
+- 株式会社BitStar 技術提供
 - システムスリーコア株式会社 NFTプロジェクト 技術提供  
 - システムスリーコア株式会社 イベント 技術提供  
 - シックスワン株式会社 独自DiscordBot制作 技術提供  
 - 株式会社デジタルプラス 技術提供  
 - フロントライフ 技術提供  
 - 株式会社ブルーオーシャン 技術提供  
+- UUUM株式会社 技術提供
 - [荒野行動 荒野の光SP-荒野FILM RED CUP 特設サイト](https://twitter.com/GAME_KNIVES_OUT/status/1545245788212563968?s=20&t=oh_Bso226xUOikVWpuLvQw) (作成・保守運用)  
 - MENTA Java講師  
 - MENTA Java/Spring講師  
