@@ -24,7 +24,6 @@
 - Discord Bot Saku制作（月間ユーザー 300人）  
 - Discord Bot 99bWorks制作（月間ユーザー 3000人強）  
 
-z
 # 📊GitHub Stats :
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrozl&layout=compact&show_icons=true&theme=onedark" />
