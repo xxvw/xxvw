@@ -24,11 +24,12 @@
 - Discord Bot Saku制作（月間ユーザー 300人）  
 - Discord Bot 99bWorks制作（月間ユーザー 3000人強）  
 
-
+z
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=xrozl&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xrozl&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xrozl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrozl&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=xrozl&theme=onedark&show_icons=ture" />
+</p>
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xrozl&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xrozl&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
