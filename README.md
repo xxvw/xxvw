@@ -26,8 +26,8 @@
 
 # 📊GitHub Stats :
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrozl&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=xrozl&theme=onedark&show_icons=ture" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrozl&layout=compact&show_icons=true&theme=onedark&langs_count=10" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=xrozl&theme=onedark&show_icons=ture" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=xrozl&theme=onedark&column=7
