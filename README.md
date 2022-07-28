@@ -33,4 +33,4 @@ live in Tokyo.
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=xrozl&theme=onedark&show_icons=ture" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xrozl&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xrozl&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
