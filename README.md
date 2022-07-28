@@ -1,10 +1,7 @@
 # 💫 About Me:
 
 東京在住  
-19歳 (2003/05生), 東洋大学 情報連携学部 (~ 2022)
-
-live in Tokyo.  
-19 years old (born in 05 2003), I study at Toyo University. 
+19歳 (2003/05生)
 
 # 👏 Activity
 
@@ -26,6 +23,7 @@ live in Tokyo.
 - VST3 Compressorプラグイン制作（UB Comp）  
 - Discord Bot Saku制作（月間ユーザー 300人）  
 - Discord Bot 99bWorks制作（月間ユーザー 3000人強）  
+- ボーカルMix （提携事務所1ヶ所 別途100件程）  
 
 # 📊GitHub Stats :
 <p align="left"> 
