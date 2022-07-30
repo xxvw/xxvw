@@ -31,4 +31,4 @@
   <img alt="github stats" height="220px" src="https://github-readme-stats.vercel.app/api?username=xrozl&theme=onedark&show_icons=ture" />
 </p>
 
-<img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=xrozl&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy" />
+![](https://github-profile-trophy.vercel.app/?username=xrozl&theme=onedark&column=8)
