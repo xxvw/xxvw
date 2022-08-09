@@ -23,7 +23,7 @@
 - VST3 Compressorプラグイン制作（UB Comp）  
 - Discord Bot Saku制作（月間ユーザー 300人）  
 - Discord Bot 99bWorks制作（月間ユーザー 3000人強）  
-- ボーカルMix （提携事務所1ヶ所 別途100件程）  
+- ボーカルMix （提携事務所2ヶ所）  
 
 # 📊GitHub Stats :
 <p align="left"> 
