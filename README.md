@@ -25,6 +25,8 @@
 - Discord Bot 99bWorks制作（月間ユーザー 3000人強）  
 - ボーカルMix （提携事務所2ヶ所）  
 
+※契約の関係上上記に載せていない実績もあります。  
+
 # 📊GitHub Stats :
 <p align="left"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrozl&layout=compact&show_icons=true&theme=onedark&langs_count=10" />
