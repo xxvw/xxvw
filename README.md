@@ -19,7 +19,7 @@
 
 - **2022年**  
 株式会社ブルーオーシャン 技術提供  
-UUUM株式会社 技術提供
+UUUM株式会社 技術提供  
 [荒野行動 荒野の光SP-荒野FILM RED CUP 特設サイト](https://twitter.com/GAME_KNIVES_OUT/status/1545245788212563968?s=20&t=oh_Bso226xUOikVWpuLvQw) (作成・保守運用)  
 AtCoderコンテスト補助ツール制作  
 VST3 Compressorプラグイン制作（UB Comp）  
