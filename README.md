@@ -29,7 +29,7 @@ VST3 Compressorプラグイン制作（UB Comp）
 MENTA Java講師（生徒数 7名）  
 MENTA Java/Spring講師（生徒数 4名）  
 MENTA Python講師（生徒数 11名）  
-MENTA Selenium講師（生徒数 8名）  ]
+MENTA Selenium講師（生徒数 8名）  
 Discord Bot Saku制作（月間ユーザー 300人）  
 Discord Bot 99bWorks制作（月間ユーザー 3000人強）  
 
