@@ -24,6 +24,7 @@ UUUM株式会社 技術提供
 AtCoderコンテスト補助ツール制作  
 VST3 Compressorプラグイン制作（UB Comp）  
 ボーカルMix （提携事務所3ヶ所 +専属1件）  
+対企業向けTwitter管理プロダクト作成（個人作成　事業売却）  
 
 - **その他**  
 MENTA Java講師（生徒数 14名）  
@@ -32,7 +33,6 @@ MENTA Python講師（生徒数 13名）
 MENTA Selenium講師（生徒数 9名）  
 Discord Bot Saku制作（月間ユーザー 300人）  
 Discord Bot 99bWorks制作（月間ユーザー 3000人強）  
-対企業向けTwitter管理プロダクト作成（個人作成　事業売却）
 
 ※契約の関係上上記に載せていない実績もあります。  
 
