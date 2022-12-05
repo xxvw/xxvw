@@ -31,7 +31,6 @@ MENTA Java/Spring講師（生徒数 7名）
 MENTA Python講師（生徒数 13名）  
 MENTA Selenium講師（生徒数 9名）  
 Discord Bot Saku制作（月間ユーザー 300人）  
-Discord Bot 99bWorks制作（月間ユーザー 3000人強）  
 
 ※契約の関係上上記に載せていない実績もあります。  
 
