@@ -11,21 +11,21 @@ I am 19 years old and work mainly as a backend engineer.
 ### Languages
 | Name | Level | Experience |
 | - | - | - |
-| Java | 5 | 7 years |
-| Python | 4 | 4 years |
-| PHP | 4 | 4 years |
-| Shell Script | 4 | 4 years |
-| Kotlin | 3 | 2 years |
-| HTML | 3 | 6 years |
-| CSS | 3 | 6 years |
-| JavaScript | 3 | 5 years |
-| C++ | 2 | 2 years |
-| Rust | 2 | 1 year |
-| R | 2 | 3 month |
-| Ruby | 2 | 1 year |
-| Elixir | 2 | 1 year |
-| Dart | 2 | 4 month |
-| MQL | 1 | 2 month |
+| Java | 🌟🌟🌟🌟🌟 | 7 years |
+| Python | 🌟🌟🌟🌟 | 4 years |
+| PHP | 🌟🌟🌟🌟 | 4 years |
+| Shell Script | 🌟🌟🌟🌟 | 4 years |
+| Kotlin | 🌟🌟🌟 | 2 years |
+| HTML | 🌟🌟🌟 | 6 years |
+| CSS | 🌟🌟🌟 | 6 years |
+| JavaScript | 🌟🌟🌟 | 5 years |
+| C++ | 🌟🌟 | 2 years |
+| Rust | 🌟🌟 | 1 year |
+| R | 🌟🌟 | 3 month |
+| Ruby | 🌟🌟 | 1 year |
+| Elixir | 🌟🌟 | 1 year |
+| Dart | 🌟🌟 | 4 month |
+| MQL | 🌟 | 2 month |
  
 ### Social
 <p align="left">
