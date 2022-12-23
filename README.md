@@ -1,36 +1,48 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is yuu.
-============================================================================================================================
+<!-- ![](./profile-3d-contrib/profile-season.svg) -->
 
-I am 19 years old and work mainly as a backend engineer.
+# 💫 About Me:
 
-*   🌍  I'm based in Tokyo, Japan.
-*   🚀  I'm currently working on [Gamers's Buddy Ltd.](http://gamers-buddy.com/)
-*   🧠  I'm learning rust.<a href="https://www.github.com/xrozl" target="_blank" rel="noreferrer">  
+東京在住  
+19歳 (2003/05生)
 
-  <img src="https://img.shields.io/github/followers/xrozl?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
-### Languages
-| Name | Level | Experience |
-| - | - | - |
-| Java | 🌟🌟🌟🌟🌟 | 7 years |
-| Python | 🌟🌟🌟🌟 | 4 years |
-| PHP | 🌟🌟🌟🌟 | 4 years |
-| Shell Script | 🌟🌟🌟🌟 | 4 years |
-| Kotlin | 🌟🌟🌟 | 2 years |
-| HTML | 🌟🌟🌟 | 6 years |
-| CSS | 🌟🌟🌟 | 6 years |
-| JavaScript | 🌟🌟🌟 | 5 years |
-| C++ | 🌟🌟 | 2 years |
-| Rust | 🌟🌟 | 1 year |
-| R | 🌟🌟 | 3 month |
-| Ruby | 🌟🌟 | 1 year |
-| Elixir | 🌟🌟 | 1 year |
-| Dart | 🌟🌟 | 4 month |
-| MQL | 🌟 | 2 month |
- 
-### Social
-<p align="left">
- 
- <a href="https://discord.com/users/252740980858552321" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/xrozl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-### My GitHub Stats</b>
-<a href="http://www.github.com/xrozl"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=xrozl&bg_color=27272a&color=ffffff&line=0891b2&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+# 👏 Activity
+
+所属 [AVALON Gaming](https://twitter.com/jpn_avalon). / [Gamer's Buddy Ltd](https://www.gamers-buddy.com).  
+
+- **2020年**  
+対個人向けオーダーメイドプログラム作成（7件）  
+
+- **2021年**  
+株式会社BitStar 技術提供  
+システムスリーコア株式会社 NFTプロジェクト 技術提供  
+システムスリーコア株式会社 イベント 技術提供  
+株式会社デジタルプラス 技術提供  
+フロントライフ 技術提供  
+シックスワン株式会社 独自DiscordBot制作 技術提供  
+
+- **2022年**  
+株式会社ブルーオーシャン 技術提供  
+[荒野行動 荒野の光SP-荒野FILM RED CUP 特設サイト](https://twitter.com/GAME_KNIVES_OUT/status/1545245788212563968?s=20&t=oh_Bso226xUOikVWpuLvQw) (作成・保守運用)  
+AtCoderコンテスト補助ツール制作  
+VST3 Compressorプラグイン制作（UB Comp）  
+ボーカルMix （提携事務所3ヶ所 +専属1件 累計600件程度）  
+対企業向けTwitter管理プロダクト作成（個人作成　売却）  
+対個人向け画像アップローダー作成 ([画像up!](https://gazoup.pw))  
+
+- **その他**  
+MENTA Java講師（生徒数 14名）  
+MENTA Java/Spring講師（生徒数 7名）  
+MENTA Python講師（生徒数 13名）  
+MENTA Selenium講師（生徒数 9名）  
+Discord Bot Saku制作（月間ユーザー 300人）  
+Discord Bot 99bWorks制作（月間ユーザー 3000人強）  
+
+※契約の関係上上記に載せていない実績もあります。  
+
+# 📊GitHub Stats :
+<p align="left"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrozl&layout=compact&show_icons=true&theme=onedark&langs_count=10" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=xrozl&theme=onedark&show_icons=ture" />
+</p>
+
+![](https://github-profile-trophy.vercel.app/?username=xrozl&theme=onedark&column=8)
