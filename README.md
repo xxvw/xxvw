@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Japan, Tokyo, FullStacks Engineer.  
+Japan, Tokyo, Full-Stacks Engineer.  
 19 y/o (03)  
 
 # 👏 Activity
