@@ -1,12 +1,12 @@
 # 💫 About Me:
 
-Japan, Tokyo, Systems Engineer.  
+Japan, Tokyo, FullStacks Engineer.  
 19 y/o (03)  
 
 # 👏 Activity
 
 - **2020年**  
-対個人向けオーダーメイドプログラム作成（7件）  
+toCオーダーメイドプログラム作成（7件）  
 ESL Gaming Online, Inc 技術提供  
 
 - **2021年**  
@@ -21,11 +21,12 @@ ESL Gaming Online, Inc 技術提供
 株式会社ブルーオーシャン 技術提供  
 [荒野行動 荒野の光SP-荒野FILM RED CUP 特設サイト](https://twitter.com/GAME_KNIVES_OUT/status/1545245788212563968?s=20&t=oh_Bso226xUOikVWpuLvQw) (作成・保守運用)  
 UUUM株式会社 技術提供  
+株式会社EJK 技術提供  
 AtCoderコンテスト補助ツール制作  
-VST3 Compressorプラグイン制作（UB Comp）  
+VST3 Compressorプラグイン制作（UB Comp/EQ）  
 ボーカルMix （提携事務所3ヶ所 +専属1件 累計600件程度）  
 対企業向けTwitter管理プロダクト作成（個人作成　売却）  
-対個人向け画像アップローダー作成 ([画像up!](https://gazoup.pw))  
+対個人向け画像アップローダー作成 ([画像up! (閉鎖済み) ](https://gazoup.pw))  
 
 - **その他**  
 MENTA Java講師（生徒数 14名）  
