@@ -28,6 +28,12 @@ VST3 Compressorプラグイン制作（UB Comp/EQ）
 対企業向けTwitter管理プロダクト作成（個人作成　売却）  
 対個人向け画像アップローダー作成 ([画像up! (閉鎖済み) ](https://gazoup.pw))  
 
+- **2023年**  
+株式会社 まいたけくりえいと 技術提供  
+メンズコンセプトカフェ KIRAKIRA Webサイト制作 [[LINK](https://idol-kirakira.com)]  
+JacK x JacK Webサイト制作 [[LINK](https://store.jackjack.tokyo)]  
+VTuber グループ ぶいすぽっ！ 歌ってみた動画プレイヤー (個人作成) [[LINK](https://v-uta.net)]
+
 - **その他**  
 MENTA Java講師（生徒数 14名）  
 MENTA Java/Spring講師（生徒数 7名）  
