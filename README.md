@@ -6,7 +6,6 @@ Japan, Tokyo, Full-Stacks Engineer.
 # 👏 Activity
 
 - **2020年**  
-toCオーダーメイドプログラム作成（7件）  
 ESL Gaming Online, Inc 技術提供  
 
 - **2021年**  
