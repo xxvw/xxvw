@@ -1,7 +1,12 @@
 # 💫 私について:
 
 日本 東京都在住, フルスタックエンジニア
-20歳 (2003生)
+21歳 (2003生)  
+
+# スキルセット  
+PHP, Java, JavaScript, TypeScript, MQL4/5, Go, Python3  
+HTML, CSS, Pug, React, NextJS, MySQL, PostgreSQL, SupaBase,
+Terraform, SendGrid, GCP, AWS, Xd, Figma, Photoshop  
 
 # 👏 過去実績
 
@@ -10,11 +15,13 @@ ESL Gaming Online, Inc 技術提供
 
 - **2021年**  
 株式会社BitStar 技術提供  
+株式会社Pont 技術提供
 システムスリーコア株式会社 NFTプロジェクト 技術提供  
 システムスリーコア株式会社 イベント 技術提供  
 株式会社デジタルプラス 技術提供  
 フロントライフ 技術提供  
-シックスワン株式会社 独自DiscordBot制作 技術提供  
+シックスワン株式会社 独自DiscordBot制作 技術提供 (譲渡済)  
+99BWorks 制作 (事業譲渡済)  
 
 - **2022年**  
 株式会社ブルーオーシャン 技術提供  
@@ -34,7 +41,7 @@ JacK x JacK Webサイト制作 [[LINK](https://jackjack.tokyo)]
 VTuber グループ ぶいすぽっ！ 歌ってみた動画プレイヤー (個人作成) [[LINK](https://v-uta.net)]
 
 - **その他**  
-MENTA Java講師（生徒数 14名）  
+MENTA Java講師（生徒数 16名）  
 MENTA Java/Spring講師（生徒数 7名）  
 MENTA Python講師（生徒数 13名）  
 MENTA Selenium講師（生徒数 9名）  
