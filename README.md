@@ -5,7 +5,7 @@
 
 # スキルセット  
 PHP, Java, JavaScript, TypeScript, MQL4/5, Go, Python3  
-HTML, CSS, Pug, React, NextJS, MySQL, PostgreSQL, SupaBase,
+HTML, CSS, Pug, React, NextJS, MySQL, PostgreSQL, SupaBase,  
 Terraform, SendGrid, GCP, AWS, Xd, Figma, Photoshop  
 
 # 👏 過去実績
@@ -15,7 +15,7 @@ ESL Gaming Online, Inc 技術提供
 
 - **2021年**  
 株式会社BitStar 技術提供  
-株式会社Pont 技術提供
+株式会社Pont 技術提供  
 システムスリーコア株式会社 NFTプロジェクト 技術提供  
 システムスリーコア株式会社 イベント 技術提供  
 株式会社デジタルプラス 技術提供  
