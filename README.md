@@ -5,7 +5,7 @@
 
 # スキルセット  
 PHP, Java, JavaScript, TypeScript, MQL4/5, Go, Python3  
-HTML, CSS, Pug, React, NextJS, MySQL, PostgreSQL, SupaBase,  
+HTML, CSS, Liquid, Pug, React, NextJS, MySQL, PostgreSQL, SupaBase,  
 Terraform, SendGrid, GCP, AWS, Xd, Figma, Photoshop  
 
 # 👏 過去実績
