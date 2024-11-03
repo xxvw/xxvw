@@ -38,7 +38,7 @@ VST3 Compressorプラグイン制作（UB Comp/EQ）
 株式会社 まいたけくりえいと 技術提供  
 メンズコンセプトカフェ KIRAKIRA Webサイト制作 [[LINK](https://idol-kirakira.com)]  
 JacK x JacK Webサイト制作 [[LINK](https://jackjack.tokyo)]  
-VTuber グループ ぶいすぽっ！ 歌ってみた動画プレイヤー (個人作成) [[LINK](https://v-uta.net)]
+VTuber グループ ぶいすぽっ！ 歌ってみた動画プレイヤー [[LINK](https://v-uta.net)]
 
 - **2024年**  
 Magness EC Store 技術提供 [[LINK](https://magness.tokyo)]  
