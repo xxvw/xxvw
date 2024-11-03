@@ -1,11 +1,11 @@
 # 💫 私について:
 
-日本 東京都在住, フルスタックエンジニア  
+日本 東京都在住, システムエンジニア  
 21歳 (2003生) ex-INIAD6    
 
 # スキルセット  
-PHP, Java, JavaScript, TypeScript, MQL4/5, Go, Python3  
-HTML, CSS, Liquid, Pug, React, NextJS, MySQL, PostgreSQL, SupaBase,  
+PHP, Java, JavaScript, TypeScript, MQL4/5, Go, Python3, Lua, GAS,   
+HTML, CSS, Liquid, Pug, React, NextJS, Nuxt, SvelteKit, Vue, MySQL, PostgreSQL, SupaBase,  
 Terraform, SendGrid, GCP, AWS, Xd, Figma, Photoshop  
 
 # 👏 過去実績
