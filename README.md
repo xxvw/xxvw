@@ -1,4 +1,7 @@
 Japanese Full-stack Engineer.  
+Self-Hosted DC Manager.  
+- Ryzen 9 7900 128GB RAM
+- EPYC 9224 512GB RAM  
 
 📊GitHub Stats :
 <p align="left"> 
