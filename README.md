@@ -41,7 +41,9 @@ JacK x JacK Webサイト制作 [[LINK](https://jackjack.tokyo)]
 VTuber グループ ぶいすぽっ！ 歌ってみた動画プレイヤー [[LINK](https://v-uta.net)]
 
 - **2024年**  
-Magness EC Store 技術提供 [[LINK](https://magness.tokyo)]  
+Magness EC Store 技術提供 [[LINK](https://magness.tokyo)]
+NOEZ FOXX 技術提供
+コンセプトカフェ Lv技術提供  
 
 - **その他**  
 MENTA Java講師（生徒数 16名）  
