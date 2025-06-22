@@ -1,1 +1,2 @@
-Crypto/Web3  
+Crypto/Web3    
+CEO at It.Be. Co, Ltd.
