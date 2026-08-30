@@ -51,7 +51,7 @@ Magness EC Store 技術提供 [[LINK](https://magness.tokyo)]
 NOEZ FOXX 技術提供  
 コンセプトカフェ Lv技術提供
 
-- **2025**
+- **2025**  
 志岐半島開発局 インフラ技術提供  [[LINK](https://x.com/shannon_gohan/status/1987489004132929702)]  
 株式会社BridgeOne 技術提供  
 NeverFail株式会社 Webサイト制作 [[LINK](https://never-fail.jp/)]  
