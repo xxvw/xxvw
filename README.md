@@ -14,7 +14,7 @@ Discord: @0xanade
 
 # 👏 History:  
 
-- **2019**
+- **2019**  
 個人Youtuberへの インフラ技術提供
 
 - **2020**  
