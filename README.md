@@ -1,6 +1,6 @@
 # 💫 About me:  
 
-Tokyo, Japan FullStack Engineer.  
+Tokyo, Japan, FullStack Engineer.  
 
 # 💻 Skill set:  
 PHP, Java, JavaScript, TypeScript, MQL4/5, Go, Python3, Lua, GoogleAppScript,   
@@ -14,10 +14,13 @@ Discord: @0xanade
 
 # 👏 History:  
 
-- **2020年**  
+- **2019**
+個人Youtuberへの インフラ技術提供
+
+- **2020**  
 ESL Gaming Online, Inc 技術提供  
 
-- **2021年**  
+- **2021**  
 株式会社BitStar 技術提供  
 株式会社Pont 技術提供  
 システムスリーコア株式会社 NFTプロジェクト 技術提供  
@@ -27,7 +30,7 @@ ESL Gaming Online, Inc 技術提供
 シックスワン株式会社 独自DiscordBot制作 技術提供 (譲渡済)  
 99BWorks 制作 (事業譲渡済)  
 
-- **2022年**  
+- **2022**  
 株式会社ブルーオーシャン 技術提供  
 [荒野行動 荒野の光SP-荒野FILM RED CUP 特設サイト](https://twitter.com/GAME_KNIVES_OUT/status/1545245788212563968?s=20&t=oh_Bso226xUOikVWpuLvQw) (作成・保守運用)  
 UUUM株式会社 技術提供  
@@ -38,15 +41,21 @@ VST3 Compressorプラグイン制作（UB Comp/EQ）
 対企業向けTwitter管理プロダクト作成（個人作成　売却）  
 対個人向け画像アップローダー作成 ([画像up! (閉鎖済み) ](https://gazoup.pw))  
 
-- **2023年**  
+- **2023**  
 株式会社 まいたけくりえいと 技術提供  
 メンズコンセプトカフェ KIRAKIRA Webサイト制作 [[LINK](https://idol-kirakira.com)]  
 JacK x JacK Webサイト制作 [[LINK](https://jackjack.tokyo)]  
 
-- **2024年**  
+- **2024**  
 Magness EC Store 技術提供 [[LINK](https://magness.tokyo)]
-NOEZ FOXX 技術提供
-コンセプトカフェ Lv技術提供  
+NOEZ FOXX 技術提供  
+コンセプトカフェ Lv技術提供
+
+- **2025**
+志岐半島開発局 インフラ技術提供  [[LINK](https://x.com/shannon_gohan/status/1987489004132929702)]  
+株式会社BridgeOne 技術提供  
+NeverFail株式会社 Webサイト制作 [[LINK](https://never-fail.jp/)]  
+
 
 - **Others**  
 MENTA Java講師（生徒数 3名）  
