@@ -1,6 +1,20 @@
 # 💫 About me:  
 
+23 years old, 2003.  
 Tokyo, Japan, FullStack Engineer.  
+
+
+# 📕 Certified License:  
+
+Oracle Java Gold SE 8.  
+Oracle Java Gold SE 11.  
+AWS Solutions Architect Associate (2022).  
+AWS Solutions Architect Professional (2023).  
+Kubernetes and Cloud Native Security Associate (KCSA).  
+Certified Kubernetes Application Developer (CKAD).  
+Docker Certified Associate (DCA).  
+Google AI Expert Certified.  
+Certified Member of The Nippon Technical Analysts Association.  
 
 # 💻 Skill set:  
 PHP, Java, JavaScript, TypeScript, MQL4/5, Go, Python3, Lua, GoogleAppScript,   
