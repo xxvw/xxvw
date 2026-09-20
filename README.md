@@ -14,7 +14,16 @@ Kubernetes and Cloud Native Security Associate (KCSA).
 Certified Kubernetes Application Developer (CKAD).  
 Docker Certified Associate (DCA).  
 Google AI Expert Certified.  
-Certified Member of The Nippon Technical Analysts Association.  
+Certified Member of The Nippon Technical Analysts Association.   
+
+### Propfirm License  
+FTMO Funded Trader.  
+Fintokei Funded Trader.   
+Fundora Prop Funded Trader.  
+Funded7 Funded Trader.  
+FundedElite Funded Trader.  
+DirectFundedTrader Funded Trader.  
+
 
 # 💻 Skill set:  
 PHP, Java, JavaScript, TypeScript, MQL4/5, Go, Python3, Lua, GoogleAppScript,   
