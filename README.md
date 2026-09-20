@@ -48,22 +48,17 @@ ESL Gaming Online, Inc 技術提供
 株式会社ブルーオーシャン 技術提供  
 [荒野行動 荒野の光SP-荒野FILM RED CUP 特設サイト](https://twitter.com/GAME_KNIVES_OUT/status/1545245788212563968?s=20&t=oh_Bso226xUOikVWpuLvQw) (作成・保守運用)  
 UUUM株式会社 技術提供  
-株式会社EJK 技術提供  
-AtCoderコンテスト補助ツール制作  
+株式会社EKK 技術提供  
+AtCoderコンテスト補助ツール制作  (非公式).  
 VST3 Compressorプラグイン制作（UB Comp/EQ）  
-ボーカルMix （提携事務所3ヶ所 +専属1件 累計600件程度）  
 対企業向けTwitter管理プロダクト作成（個人作成　売却）  
 対個人向け画像アップローダー作成 ([画像up! (閉鎖済み) ](https://gazoup.pw))  
 
 - **2023**  
-株式会社 まいたけくりえいと 技術提供  
-メンズコンセプトカフェ KIRAKIRA Webサイト制作 [[LINK](https://idol-kirakira.com)]  
-JacK x JacK Webサイト制作 [[LINK](https://jackjack.tokyo)]  
+非公開実績のみ.  
 
 - **2024**  
-Magness EC Store 技術提供 [[LINK](https://magness.tokyo)]
-NOEZ FOXX 技術提供  
-コンセプトカフェ Lv技術提供
+非公開実績のみ.  
 
 - **2025**  
 志岐半島開発局 インフラ技術提供  [[LINK](https://x.com/shannon_gohan/status/1987489004132929702)]  
