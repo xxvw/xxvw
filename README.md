@@ -8,13 +8,20 @@ Tokyo, Japan, FullStack Engineer.
 
 Oracle Java Gold SE 8.  
 Oracle Java Gold SE 11.  
-AWS Solutions Architect Associate (2022).  
-AWS Solutions Architect Professional (2023).  
-Kubernetes and Cloud Native Security Associate (KCSA).  
+AWS Solutions Architect Associate (2022)  
+AWS Solutions Architect Professional (2023)  
+Kubernetes and Cloud Native Security Associate (KCSA)  
 Certified Kubernetes Application Developer (CKAD).  
-Docker Certified Associate (DCA).  
-Google AI Expert Certified.  
-Certified Member of The Nippon Technical Analysts Association.   
+Docker Certified Associate (DCA)  
+GitHub Actions (GH-200)  
+Google Professional Cloud Architect  
+Terraform Associate  
+RHCSA (Linux - Redhat)  
+GitHub Administration  
+
+### Security  
+Hack The Box Grandmaster.  
+TryHackMe Top5%+.  
 
 ### Propfirm License  
 FTMO Funded Trader.  
