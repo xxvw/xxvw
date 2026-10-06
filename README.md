@@ -26,9 +26,11 @@ DirectFundedTrader Funded Trader.
 
 
 # 💻 Skill set:  
-PHP, Java, JavaScript, TypeScript, MQL4/5, Go, Python3, Lua, GoogleAppScript,   
+PHP, Java, JavaScript, TypeScript, MQL4/5, Go, OCaml, Dart, COBOL, F90, Python3, Lua, GoogleAppScript,   
 HTML, CSS, Liquid, React, NextJS, Nuxt, SvelteKit, Vue, MySQL, PostgreSQL, SupaBase,  
-Terraform, SendGrid, GCP, AWS, Xd, Figma, Photoshop,  
+Terraform, SendGrid, GCP, AWS, Xd, Figma, Photoshop,   
+Github Workflow, ASM_x64, ASM_arm64,  
+C#, F#, Swift, Objective-C,  
 Telegram, Discord, X, LINE Official Account,  
 
 # ✉ Contact:  
