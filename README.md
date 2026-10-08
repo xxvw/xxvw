@@ -41,7 +41,7 @@ C#, F#, Swift, Objective-C,
 Telegram, Discord, X, LINE Official Account,  
 
 # ✉ Contact:  
-Email: 0uxu0.yuu@gmail.com  
+Email: yuuthink@pm.me    
 Discord: @0xanade  
 
 # 👏 History:  
