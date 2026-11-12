@@ -17,7 +17,8 @@ GitHub Actions (GH-200)
 Google Professional Cloud Architect  
 Terraform Associate  
 RHCSA (Linux - Redhat)  
-GitHub Administration  
+GitHub Administration   
+AWS Red Team Expert.  
 
 ### Security  
 Hack The Box Grandmaster.  
